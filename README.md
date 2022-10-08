@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingzbrian
 - 👀 I’m interested in program development, software apps or games.
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning programming and development.
 - I’m looking to collaborate on programming concepts and trends
 
 <!---
